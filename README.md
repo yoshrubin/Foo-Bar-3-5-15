@@ -1,0 +1,1 @@
+Just a program that does nothing but output foo instead dividends 3 and bar instead dividends of 5 guess what it does for dividends of 15 :)
